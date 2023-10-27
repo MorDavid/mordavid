@@ -24,8 +24,9 @@ I'm currently a cyber security expert and red teamer with 5+ years of experience
 <li>🍕 &nbsp; Meetups & Tech Events.</li>
 </ul>
 <h3>Technologies and Languages</h3>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" title="Python" />
-<img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" title="PHP" />
+
+<a href=""><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" title="Python"></a>
+<img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" title="PHP">
 <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" title="Flask" />
 <img src="https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" title="MySQL" />
 <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" title="C#" />
@@ -40,6 +41,7 @@ I'm currently a cyber security expert and red teamer with 5+ years of experience
 <img src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" title="Visual Studio Vode" />
 <img src="https://img.shields.io/badge/-GIT-E44C30?style=flat-square&logo=git&logoColor=white" title="Git" />
 <img src="https://img.shields.io/badge/-ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" title="ChatGPT" />
+
 <div align="center">
 <h3>Show some ❤️ by starring some of the repositories!</h3>
 </div>
