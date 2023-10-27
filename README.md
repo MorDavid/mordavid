@@ -1,29 +1,29 @@
-<h2>Hey 👋, I'm Mor!</h2>
+<h1>Hey 👋, I'm Mor!</h1>
 I'm currently a cyber security expert and red teamer with 5+ years of experience. I am working on some side projects, and learning a couple of new technologies.<br><br>
 <div align="center">
 <a href="https://linkedin.com/in/mordavidwork" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-000.svg?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" target="_blank" /></a>
 <a href="https://medium.com/@mordavid" title="Medium"><img src="https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white" title="Medium" target="_blank" /></a>
 <a href="https://twitter.com/m0rd4vid" title="Twitter"><img src="https://img.shields.io/badge/X%20/%20Twitter-000.svg?style=for-the-badge&logo=x&logoColor=white" title="Twitter"  target="_blank"/></a>
 </div>
-<h3>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=mordavid&style=flat-square"></h2>
+<h2>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=mordavid&style=flat-square"></h2>
 <ul>
 <li>❤️ &nbsp; I love internal, external and reconnaissance assessments in the cyber-security field.</li>
 <li>🛠 &nbsp; I’m currently working with Python, C#, C, C++, etc.</li>
 <li>🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.</li>
 <li>💬 &nbsp; Ask me anything <a href="https://www.linkedin.com/in/mordavidwork">here</a> I am happy to help.</li>
 </ul>
-<h3>Latest Blog Posts</h3>
+<h2>Latest Blog Posts</h2>
 <ul>
 <li><a href="https://medium.com/cyesec/uncovering-a-message-thread-between-hackers-targeting-israeli-citizens-ba8b922ed1a5" title="Uncovering a Message Thread Between Hackers Targeting Israeli Citizens">Uncovering a Message Thread Between Hackers Targeting Israeli Citizens [English]</a></li>
 <li><a href="https://www.digitalwhisper.co.il/files/Zines/0x99/DW153-3-PhishingThePhisherman.pdf" title="Phishing The Phisherman">Phishing The Phisherman [Hebrew]</a></li>
 </ul>
-<h3>My Absolute Favorites</h3>
+<h2>My Absolute Favorites</h2>
 <ul>
 <li>💻 &nbsp; I love exploring new technologies and building cool stuff.</li>
 <li>📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.</li>
 <li>🍕 &nbsp; Meetups & Tech Events.</li>
 </ul>
-<h3>Technologies and Languages</h3>
+<h2>Technologies and Languages</h2>
 
 <a href=""><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" title="Python"></a>
 <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" title="PHP">
@@ -43,5 +43,5 @@ I'm currently a cyber security expert and red teamer with 5+ years of experience
 <img src="https://img.shields.io/badge/-ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" title="ChatGPT" />
 
 <div align="center">
-<h3>Show some ❤️ by starring some of the repositories!</h3>
+<h2>Show some ❤️ by starring some of the repositories!</h2>
 </div>
