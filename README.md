@@ -1,7 +1,7 @@
 <h1>Hey 👋, I'm Mor!</h1>
 I'm currently a cyber security expert and red teamer with 5+ years of experience. I am working on some side projects, and learning a couple of new technologies.<br><br>
 <div align="center">
-<a href="https://linkedin.com/in/mordavidwork" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-000.svg?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" target="_blank" /></a>
+<a href="https://linkedin.com/in/mor-david-cyber" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-000.svg?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" target="_blank" /></a>
 <a href="https://medium.com/@mordavid" title="Medium"><img src="https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white" title="Medium" target="_blank" /></a>
 <a href="https://twitter.com/m0rd4vid" title="Twitter"><img src="https://img.shields.io/badge/X%20/%20Twitter-000.svg?style=for-the-badge&logo=x&logoColor=white" title="Twitter"  target="_blank"/></a>
 </div>
