@@ -12,6 +12,12 @@ I'm currently a cyber security expert and red teamer with 5+ years of experience
 <li>🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.</li>
 <li>💬 &nbsp; Ask me anything <a href="https://www.linkedin.com/in/mordavidwork">here</a> I am happy to help.</li>
 </ul>
+<h2>Proud Projects 🚀</h2>
+<ul>
+<li><a href="https://github.com/mordavid/BloodHound-MCP-AI" title="BloodHound-MCP-AI">BloodHound-MCP-AI</a> – AI-powered BloodHound OpenGraph collectors for advanced attack path analysis.</li>
+<li><a href="https://github.com/mordavid/DCSyncHound" title="DCSyncHound">DCSyncHound</a> – Automated DCSync analysis and integration with Hashcat results.</li>
+<li><a href="https://github.com/mordavid/BruteForceAI" title="BruteForceAI">BruteForceAI</a> – AI-assisted brute force tool for login pages.</li>
+</ul>
 <h2>Latest Blog Posts</h2>
 <ul>
 <li><a href="https://medium.com/cyesec/uncovering-a-message-thread-between-hackers-targeting-israeli-citizens-ba8b922ed1a5" title="Uncovering a Message Thread Between Hackers Targeting Israeli Citizens">Uncovering a Message Thread Between Hackers Targeting Israeli Citizens [English]</a></li>
